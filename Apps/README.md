@@ -4,16 +4,16 @@ Here is a quick list of apps that are generally good to use and can come in hand
 
 ### Developer Tools
 - [Google Chrome](https://www.google.com/intl/en/chrome/browser/): Installs Chrome which is one of the best browsers currently. All chrome browsers and extensions are saved by Google so can be synced easily.
-- [Latexian](http://tacosw.com/latexian/): App for writing Latex documents. View the code and output on split screen. Supports all major packages and code completion , etc.
-- [Valentina Studio](http://www.valentina-db.com/en/valentina-studio-overview):  Valentina Studio is a gui to create, administer and query MySQL, Postgres and SQLite databases.
+- [sequel Pro](http://www.sequelpro.com/): Sequel Pro is a **free** gui client to MySQL.
+- [IntellIj IDEA](): Powerfull ide.
+- [atom](): Code editor by github.
+- [sourceTree]():  git client.
 
 ### Productivity
+- [马克飞象](http://www.maxiang.info/) A markdown editor, can sync to evetnote.
 - [1Password](https://agilebits.com/onepassword): Cross platform password management tool.
-- [Airmail](http://airmailapp.com/): Lightweight fast email client.
 - [Alfred](http://www.alfredapp.com/): Replacement for spotlight. I'll mostly be upgrading to power pack.
-- [AppCleaner](http://www.freemacsoft.net/appcleaner/): Uninstall Apps.
 - [Caffeine](http://lightheadsw.com/caffeine/): Stops the machine from going into sleep mode.
-- [DoubleTwist](https://www.doubletwist.com/desktop/): Import your playlists, ratings, music and videos. Create new playlists to your heart's content. Rate your songs and videos. Play your music and videos and view all of your photos.
 - [Dropbox](https://www.dropbox.com/): File syncing to the cloud. It syncs files across all devices (laptop, mobile, tablet), and serves as a backup as well!
 - [F.lux](https://justgetflux.com/): f.lux makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day.
 - [Google Drive](https://drive.google.com/): File syncing to the cloud too! Google Docs is a popular too to collaborate with others.

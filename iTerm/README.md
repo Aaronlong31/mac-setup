@@ -1,4 +1,4 @@
-## iTerm2
+## Terminal
 
 Since we're going to be spending a lot of time in the command-line, let's install a better terminal than the default one. Download and install [iTerm2](http://www.iterm2.com/).
 

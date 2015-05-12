@@ -1,4 +1,4 @@
-# Zsh
+# Zsh + Oh my zsh
 
 We'll install `zsh` for all the features offered by `oh-my-zsh`. The installation and usage is really intutive. The `Env.sh` is a config file we maintain so as to not pollute the `~/.zshrc` too much. `Env.sh` holds aliases, exports, path changes etc.
 
@@ -19,7 +19,7 @@ edit the `.zshrc` by opening the file in a text editor
         alias envconfig="subl ~/Projects/config/env.sh"
         plugins=(git colored-man colorize github jira vagrant virtualenv pip python brew osx zsh-syntax-highlighting)
 
-### Env.sh
+### ~/.profile
 ~~~
     #!/bin/zsh
 

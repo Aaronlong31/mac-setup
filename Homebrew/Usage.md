@@ -29,3 +29,26 @@ Homebrew keeps older versions of packages installed, in case you want to roll ba
 To see what you have installed (with their version numbers):
 
     $ brew list --versions
+
+My brew list:
+```shell
+brew install the_silver_searcher
+brew install php56
+brew install php56-mcrypt
+brew install autojump
+brew install byobu
+brew install maven
+brew install mysql
+brew install thrift
+brew install tree
+brew install wget
+brew install opensll
+brew install pcre
+brew install imagemagick
+brew install composer
+brew install brew-cask
+brew install node
+brew install redis
+brew install tomcat
+brew install mosquitto
+```

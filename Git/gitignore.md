@@ -25,4 +25,14 @@ Thumbs.db
 venv
 node_modules
 .sass-cache
+
+# IntellIj IDEA
+.iml
+
+# eclipse
+.settings
+.project
+out/
+bin/
+.classpath
 ~~~
